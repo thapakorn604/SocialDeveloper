@@ -468,6 +468,7 @@ Tomoya Okuno, motonuko<br/>
 2411311 - Haruto Wakayama <br/>
 2411276 - Anju Miyamoto <br/>
 2411311 - Haruto Wakayama <br/>
+2411157 - Ryosuke Sota <br/>
 2411252 - Daisuke Furuya <br/>
 2411004 - Ryoji Agatsuma <br/>
 2411116 - Kota Kotegawa <br/>
