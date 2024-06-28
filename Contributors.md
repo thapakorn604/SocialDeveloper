@@ -27,6 +27,7 @@ studentID - username <br/>
 2311262 - Kazuki Mizoguchi<br/>
 2111149 - Keiichiro Takahashi <br/>
 2111441 - Yang Shuo<br/>
+2411101 - Kinugawa Masataka<br/>
 2211320 <br/>
 2211355 - Kazutomo Nakamura <br/>
 2311241 - Kazuma Fujiwara <br/>
