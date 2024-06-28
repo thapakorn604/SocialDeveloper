@@ -487,6 +487,7 @@ Tomoya Okuno, motonuko<br/>
 2411252 - Daisuke Furuya <br/>
 2411004 - Ryoji Agatsuma <br/>
 2411116 - Kota Kotegawa <br/>
+2411320 - JIE Zhiling <br/>
 2411082 - Yuito Kameda<br/>
 2411141 - Kouki Shibata <br/>
 2411115 - Tsukasa Kojo <br/>
@@ -534,6 +535,6 @@ Tomoya Okuno, motonuko<br/>
 2411218 - Daisuke Narita <br/>
 2411066 - Shintaro Ozaki <br/>
 2411264 - Issei Matsumoto </br>
-2411271 - Nanako Miyai <br/>\
+2411271 - Nanako Miyai <br/>
 2411110 - Riku Koizumi </br>
 2411271 - Nanako Miyai <br/>
