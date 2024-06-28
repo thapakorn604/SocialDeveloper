@@ -504,6 +504,8 @@ Tomoya Okuno, motonuko<br/>
 2411272 - Shota Miyagawa <br/>
 2411111 - Sosui Koga <br/>
 2411299 - Hisashi Yashima <br/>
+2411218 - Daisuke Narita <br/>
+2311413 - KPALEMON Abena Samuel <br/>
 2411037 - Natsu Uwai <br/>
 2411218 - Daisuke Narita <br/>
 2411218 - Daisuke Narita <br/>
